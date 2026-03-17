@@ -1,4 +1,4 @@
-# Diagnostic-Accuracy-meta-analyses
+# R Code for Diagnostic-Accuracy-meta-analyses for biomarkers studies
 Diagnostic accuracy meta-analysis of miRNA biomarkers in periodontitis
 
 Bivariate Reitsma with full co variance 
